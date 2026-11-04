@@ -7,3 +7,8 @@ This bundle contains all three Level 1 projects. Copy the three project folders 
 - `WebDev-L1-TemperatureConverter/` — HTML/CSS/Vanilla JS temperature converter
 
 Before submission: test each project, capture screenshots, update any personal data or placeholders, push all folders to GitHub, record a demo, post the demo to LinkedIn tagging @Oasis Infobyte and using #oasisinfobyte, and submit the form.
+ 
+Live-Link
+LandingPage: https://oibsip-webdev-l1-landingpage.vercel.app/
+PersonalPortfolio: https://webdev-l1-personalportfolio-tau.vercel.app/
+TemperatureConverter: https://oibsip-webdev-l1-temperatureconvert.vercel.app/
